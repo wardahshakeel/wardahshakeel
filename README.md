@@ -3,7 +3,7 @@
 🎓 Master's Student in Data Science  
 📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
----
+
 
 ## 🌱 About Me
 
@@ -12,7 +12,7 @@ I enjoy working with data to identify patterns, solve problems, and support data
 
 This GitHub showcases my **data analysis projects, case studies, and dashboards**.
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -21,7 +21,7 @@ This GitHub showcases my **data analysis projects, case studies, and dashboards*
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+
 
 ## 📊 Skills
 
@@ -31,7 +31,7 @@ This GitHub showcases my **data analysis projects, case studies, and dashboards*
 - Data Visualization & Dashboards  
 - Business Insights & Reporting  
 
----
+
 
 ## 📁 Featured Projects
 
@@ -45,7 +45,7 @@ This GitHub showcases my **data analysis projects, case studies, and dashboards*
 🔹 **Retail Sales Dashboard**  
 - Built interactive dashboard to visualize monthly revenue trends  
 
----
+
 
 ## 📚 Currently Learning
 
