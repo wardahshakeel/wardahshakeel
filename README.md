@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## 🌱 About Me
 
 I am currently pursuing a **Master's in Data Science** and building my skills in **data analytics, SQL, and data visualization**.  
 I enjoy working with data to identify patterns, solve problems, and support data-driven decision making.
@@ -57,7 +57,7 @@ This GitHub showcases my **data analysis projects, case studies, and dashboards*
 
 ## 📈 GitHub Stats
 
-![Wardah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
+![Wardah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wardahshakeel&show_icons=true&theme=default)
 
 ---
 
