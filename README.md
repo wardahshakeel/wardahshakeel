@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Wardah Shakeel 👋
 
-<!--
-**wardahshakeel/wardahshakeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Data Science  
+📊 Aspiring Data Analyst passionate about turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I enjoy working with data to uncover patterns, trends, and insights that support better decision-making.  
+This GitHub repository showcases my projects in **data cleaning, analysis, and visualization**.
+
+Currently building projects to strengthen my **data analytics portfolio** and preparing for **Data Analyst roles**.
+
+---
+
+## Skills
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL Queries & Data Manipulation
+- Data Visualization
+- Dashboard Creation
+
+---
+
+## Tools & Technologies
+
+- Microsoft Excel
+- SQL (MySQL / PostgreSQL)
+- Tableau
+- Python (Pandas, NumPy, Matplotlib)
+
+---
+
+## Projects
+
+Some projects you will find in this repository:
+
+- 📊 Excel Data Cleaning Projects  
+- 🗄 SQL Data Analysis Case Studies  
+- 📈 Data Visualization Dashboards  
+- 🔍 Exploratory Data Analysis Projects  
+
+---
+
+
+⭐ Feel free to explore my projects and follow my journey in data analytics!
