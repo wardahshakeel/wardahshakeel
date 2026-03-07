@@ -1,48 +1,64 @@
 # Hi, I'm Wardah Shakeel 👋
 
 🎓 Master's Student in Data Science  
-📊 Aspiring Data Analyst passionate about turning raw data into meaningful insights.
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I enjoy working with data to uncover patterns, trends, and insights that support better decision-making.  
-This GitHub repository showcases my projects in **data cleaning, analysis, and visualization**.
+I am currently pursuing a **Master's in Data Science** and building my skills in **data analytics, SQL, and data visualization**.  
+I enjoy working with data to identify patterns, solve problems, and support data-driven decision making.
 
-Currently building projects to strengthen my **data analytics portfolio** and preparing for **Data Analyst roles**.
-
----
-
-## Skills
-
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- SQL Queries & Data Manipulation
-- Data Visualization
-- Dashboard Creation
+This GitHub showcases my **data analysis projects, case studies, and dashboards**.
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- Microsoft Excel
-- SQL (MySQL / PostgreSQL)
-- Tableau
-- Python (Pandas, NumPy, Matplotlib)
-
----
-
-## Projects
-
-Some projects you will find in this repository:
-
-- 📊 Excel Data Cleaning Projects  
-- 🗄 SQL Data Analysis Case Studies  
-- 📈 Data Visualization Dashboards  
-- 🔍 Exploratory Data Analysis Projects  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
+## 📊 Skills
 
-⭐ Feel free to explore my projects and follow my journey in data analytics!
+- Data Cleaning & Data Preparation  
+- Exploratory Data Analysis (EDA)  
+- SQL Queries & Data Manipulation  
+- Data Visualization & Dashboards  
+- Business Insights & Reporting  
+
+---
+
+## 📁 Featured Projects
+
+🔹 **E-commerce Sales Analysis**  
+- Data cleaning and analysis using Excel and SQL  
+- Identified top-performing products and sales trends  
+
+🔹 **Customer Segmentation Analysis**  
+- Used SQL queries and pivot tables to analyze customer purchasing behavior  
+
+🔹 **Retail Sales Dashboard**  
+- Built interactive dashboard to visualize monthly revenue trends  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL for Data Analytics  
+- Data Visualization Best Practices  
+- Portfolio-level Data Analyst Projects  
+
+---
+
+## 📈 GitHub Stats
+
+![Wardah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
