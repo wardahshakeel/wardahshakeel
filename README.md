@@ -40,12 +40,5 @@ SQL/BigQuery analysis of the public GA4 e-commerce dataset, using CTEs and condi
 - MLOps and model deployment basics
 - Portfolio-level data science projects grounded in real business operations
 
----
-
-## 📈 GitHub Stats
-
-![Wardah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wardahshakeel&show_icons=true&theme=default)
-
----
 
 ⭐ Thank you for visiting my GitHub profile!
